@@ -23,5 +23,5 @@ The online version of the code interacts with the turbine HMI website, but the o
 Developers are welcome. Please submit pull requests with detailed messages. 
 
 # License
-See [License.md](License.md). 
+See [LICENSE.md](LICENSE.md). 
 
